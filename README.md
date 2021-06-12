@@ -1,2 +1,2 @@
 # ML-model-deployment-in-Heroku
-This project mainly focus on the deployment of machine learning model in to cloud PAAS(Platform As Service). In this project, I have deployed a flask application (sample salary prediction) machine learning model in heroku.
+This project mainly focuses on the deployment of the machine learning model into cloud PAAS(Platform As Service). In this project, I have deployed a flask application for a sample salary prediction machine learning model in Heroku.
